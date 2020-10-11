@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  HelloWorldApp
 //
-//  Created by Andrew Kokhan on 11.10.2020.
-//
 
 import UIKit
 
